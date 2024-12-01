@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnbaruah5" target="blank"><img src="https://img.shields.io/twitter/follow/johnbaruah?logo=twitter&style=for-the-badge" alt="johnbaruah" /></a> </p>
 
-- 🔭 I’m currently working on [VERIZON](https://www.verizon.com/)
+- 🔭 I’m currently working on [Ex: VERIZON, Current: Standard Chartered Bank](https://www.verizon.com/)(https://www.sc.com/en/)
 
 - 🌱 I’m currently learning **MERN, MEAN Stack**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **SPRING BOOT, HIBERNATE, JAVA, JAVA SCRIPT, Ext.js, PHP, PYTHON, Django, C, C++, HTML, CSS**
 
-- 📫 How to reach me **johnbaruah8@gmail.com**
+- 📫 How to reach me **bezbaruah.johnmoni@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,7 +32,7 @@
 <a href="https://codepen.io/johnbaruah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnbaruah" height="30" width="40" /></a>
 <a href="https://dev.to/johnbaruah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johnbaruah" height="30" width="40" /></a>
 <a href="https://twitter.com/johnbaruah5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnbaruah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johnbaruah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnbaruah" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/johnmoni-bezbaruah-b03787284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnbaruah" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/johnbaruah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johnbaruah" height="30" width="40" /></a>
 <a href="https://codesandbox.com/johnbaruah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="johnbaruah" height="30" width="40" /></a>
 <a href="https://kaggle.com/johnbaruah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="johnbaruah" height="30" width="40" /></a>
