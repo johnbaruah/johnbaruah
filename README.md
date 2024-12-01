@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/johnbaruah5" target="blank"><img src="https://img.shields.io/twitter/follow/johnbaruah?logo=twitter&style=for-the-badge" alt="johnbaruah" /></a> </p>
 
-- 🔭 I’m currently working on [Ex: VERIZON, Current: Standard Chartered Bank](https://www.verizon.com/)(https://www.sc.com/en/)
+- 👨‍💻 Ex Employee at [VERIZON](https://www.verizon.com/)
+
+- 🔭 I’m currently working on [Standard Chartered Bank](https://www.sc.com/en/)
 
 - 🌱 I’m currently learning **MERN, MEAN Stack**
 
@@ -17,9 +19,9 @@
 
 - 🤝 I’m looking for help with **Core-Level Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/johnbaruah](https://github.com/johnbaruah)
+- 👨‍💻 All of my projects are available at [https://github.com/johnbaruah?tab=repositories](https://github.com/johnbaruah?tab=repositories)
 
-- 💬 Ask me about **SPRING BOOT, HIBERNATE, JAVA, JAVA SCRIPT, Ext.js, PHP, PYTHON, Django, C, C++, HTML, CSS**
+- 💬 Ask me about **SPRING, SPRING BOOT, HIBERNATE, JAVA, JAVA SCRIPT, Ext.js, PHP, PYTHON, Django, C, C++, HTML, CSS**
 
 - 📫 How to reach me **bezbaruah.johnmoni@gmail.com**
 
