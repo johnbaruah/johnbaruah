@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Core-Level Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/johnbaruah?tab=repositories](https://github.com/johnbaruah?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/johnbaruah?tab=repositories)
 
 - 💬 Ask me about **SPRING, SPRING BOOT, HIBERNATE, JAVA, JAVA SCRIPT, Ext.js, PHP, PYTHON, Django, C, C++, HTML, CSS**
 
